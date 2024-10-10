@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.add=void 0;var add=function(e,d){return"number"==typeof e&&"number"==typeof d?e+d:null};exports.add=add;
+var message="hello world";console.log(message);
